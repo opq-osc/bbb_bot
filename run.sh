@@ -1,0 +1,1 @@
+nohup python3 -u bot.py > o.log 2>&1 &

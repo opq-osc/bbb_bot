@@ -1,0 +1,9 @@
+qrcode==6.1
+baidu_aip==2.2.18.0
+py_cpuinfo==7.0.0
+psutil==5.8.0
+requests==2.25.1
+botoy==0.0.22
+mysql-connector-python
+Pillow==8.1.2
+python_dateutil==2.8.1
