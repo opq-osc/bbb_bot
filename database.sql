@@ -12,6 +12,10 @@ CREATE TABLE `tb_bot_config`  (
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = DYNAMIC;
 
 -- ----------------------------
+-- Records of tb_bot_config
+-- ----------------------------
+INSERT INTO `tb_bot_config` VALUES (123456, 10001);
+-- ----------------------------
 -- Table structure for tb_friendlist
 -- ----------------------------
 DROP TABLE IF EXISTS `tb_friendlist`;
